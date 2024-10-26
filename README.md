@@ -11,7 +11,7 @@
 ![SS](pyxelpb_game.png)  
   
 ## GIFアニメ
-![GIF](....gif)  
+![GIF](pyxelpb_1026_512.gif)  
   
 ## 動作確認
 - [URL](https://sanbunnoichi1962.web.fc2.com/pyxel/pyxelpb.html)  
