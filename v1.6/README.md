@@ -22,7 +22,8 @@
 
   
 ## GIFアニメ
-  
+![GIF](pyxelpb16_title.gif)  
+![GIF](pyxelpb16_demo.gif)  
 ## 動作確認
   
 ## 更新履歴
