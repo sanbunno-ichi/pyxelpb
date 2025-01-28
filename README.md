@@ -25,6 +25,7 @@
 ## GIFアニメ
 
 ## 動作確認
+[URL](https://sanbunnoichi1962.web.fc2.com/pyxel/pyxelpb18.html)
   
 ## 更新履歴
 2024.11.07 ワイド画面実装  
