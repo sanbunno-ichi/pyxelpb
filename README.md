@@ -6,7 +6,6 @@
   
 ## スクリーンショット
 ![SS](pyxelpb18_title.png)  
-![SS](pyxelpb18_game.png)  
   
 ## 更新履歴
 2024.11.07 ワイド画面実装  
